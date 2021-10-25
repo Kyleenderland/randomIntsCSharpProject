@@ -1,0 +1,15 @@
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.exe
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.deps.json
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.runtimeconfig.json
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.runtimeconfig.dev.json
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.dll
+C:\Users\DA MAC\source\repos\randomInts\randomInts\bin\Debug\netcoreapp3.1\randomInts.pdb
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.csprojAssemblyReference.cache
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.Form1.resources
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.csproj.GenerateResource.cache
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.AssemblyInfoInputs.cache
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.AssemblyInfo.cs
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.csproj.CoreCompileInputs.cache
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.dll
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.pdb
+C:\Users\DA MAC\source\repos\randomInts\randomInts\obj\Debug\netcoreapp3.1\randomInts.genruntimeconfig.cache
